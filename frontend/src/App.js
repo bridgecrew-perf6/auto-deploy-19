@@ -16,7 +16,7 @@ function App() {
             />
             <h2>Full Stack Developer</h2>
             <p>
-              Education: <strong>Code Like Pro</strong>
+              Education: <strong>Code Like Pro2</strong>
             </p>
             <p>
               Work: <b>Google</b>
